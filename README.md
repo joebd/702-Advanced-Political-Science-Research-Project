@@ -11,4 +11,4 @@ The `data` folder contains all the data used in the Rscript file.
 
 References: 
 
-[^1]: My reference.
+[^1] : Potter, Joshua and Margit Tavits. 2015. "The Impact of Campaign Finance Laws on Party Competition." \emph{British Journal of Political Science}: 45(1): 73-95. 
