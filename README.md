@@ -11,4 +11,4 @@ The `data` folder contains all the data used in the Rscript file.
 
 References: 
 
-[^1] : Potter, Joshua and Margit Tavits. 2015. "The Impact of Campaign Finance Laws on Party Competition." \emph{British Journal of Political Science}: 45(1): 73-95. (https://www.cambridge.org/core/journals/british-journal-of-political-science/article/impact-of-campaign-finance-laws-on-party-competition/BAC344FE7C753C927E40BB07C362BDD1) 
+[^1] : Potter, Joshua and Margit Tavits. 2015. "The Impact of Campaign Finance Laws on Party Competition." **British Journal of Political Science**: 45(1): 73-95. (https://www.cambridge.org/core/journals/british-journal-of-political-science/article/impact-of-campaign-finance-laws-on-party-competition/BAC344FE7C753C927E40BB07C362BDD1) 
