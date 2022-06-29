@@ -49,7 +49,7 @@ Pre_1974 <- new_data %>%
 
 ## Model fit for all of the countries 
 model_1 <- lm(postenp ~ fundparity4 + demyears + fed + pres + log(avemag) + 
-                fract + log(avemag):fract,	data = new_data)
+                fract + log(avemag):fract, data = new_data)
 
 summary(model_1) ## signs = 0.1*;0.05**;0.01***
 
