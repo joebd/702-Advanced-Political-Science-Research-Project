@@ -4,6 +4,8 @@ The main objective of this project was to fully replicate a published study. The
 
 The `Data` folder contains all the data used in the Rscript file. 
 
+`Codebook` is a pdf list of variables that was originally used in the study. 
+
 `potter_tavits_data` is the original data from the author’s study. 
 
 `V-Dem-CY-Core-v12` is a dataset from Variety of Democracy, some of the variables within the dataset are used in the new models. 
