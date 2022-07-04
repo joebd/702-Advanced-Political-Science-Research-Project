@@ -1,0 +1,67 @@
+---
+title: "Replication Study"
+subtitle: "Potter & Tavits 2015" 
+author: "Joe B. - githhub.com/joebd"
+date: ""
+output: pdf_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(error=FALSE,comment='')
+```
+
+# The Impact of Campaign Finance Laws on Party Competition 
+
+Potter, Joshua D. and Margit Tavits. 2015. "The Impact of Campaign Finance Laws on Party Competition." _British Journal of Political Science_ 45(1): 73-95. 
+
+Potter and Tavits (2015) explore the relationship of campaign finance regulations and party competition. The study utilizes a comparative perspective examine to different countries campaign finance regulations. Furthermore, developing a concept of fund parity which considers the size of the political party and the availability of resources the party has. The study finds that a country's level of fund parity has the potential to go in either direction (up or down). When the fund partiy variable is relatively low and limits in campaign regulations for contributions are non-existent electoral consideration becomes more about the money. 
+
+A description of the variables used:
+
+--------------------------------------------------------------------------------
+Name                Description
+------------------- ------------------------------------------------------------
+`cnty`               Country Name 
+
+`year`               Year of Current Election 
+
+`rulelaw`            From World Bank 
+
+`polity`             Polity IV Score
+
+`thresh`             Legal vote threshold 
+
+`postenp`            Effective Number of Parties (ENP) after current election 
+
+`preenp`             Effective Number of Parties (ENP) prior to current election 
+
+`fundparity4`        Metric presented in paper 
+
+`fundparity 3`       Alternative drops direct funding 
+
+`directelig`         Direct funding eligibility 
+
+`demin`              Year first democratic
+
+`demyear`            Number of democratic years
+
+`fed`                Whether or not federal 
+
+`pres`               Whether or not presidential 
+
+`avemag`             Average district magnitude 
+
+`smd`                Whether or not SMD system 
+
+`fract`              Ethnolinguistic fractionalization 
+
+`donorlimit`         Whether limits on donations 
+
+`eligmedia`          Free media eligibility 
+
+`partyspend`         Whether limits on spending 
+--------------------------------------------------------------------------------
+
+
+
+
+ 
