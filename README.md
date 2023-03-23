@@ -13,6 +13,7 @@ The main objective of this project was to fully replicate a published study. The
 
 
 `Codebook.pdf` is a pdf list of variables that was originally used in the study. 
+'Project_Code.R' file is the finalized project code with additions. 
 
 
 
